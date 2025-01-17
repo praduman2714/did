@@ -1,5 +1,5 @@
 # DID
-Values in this repo are for teting **ONLY**
+Values in this repo are for testing **ONLY**
 
 ## DID:WEB
 | DID:WEB | Key Pair |
