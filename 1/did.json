@@ -1,27 +1,23 @@
 {
-  "id": "did:web:trustvc.github.io:did:1",
+  "id": "did:web:praduman2714.github.io:did:1",
   "verificationMethod": [
     {
+      "id": "did:web:praduman2714.github.io:did:1#keys-1",
       "type": "Bls12381G2Key2020",
-      "id": "did:web:trustvc.github.io:did:1#keys-1",
-      "controller": "did:web:trustvc.github.io:did:1",
+      "controller": "did:web:praduman2714.github.io:did:1",
       "publicKeyBase58": "oRfEeWFresvhRtXCkihZbxyoi2JER7gHTJ5psXhHsdCoU1MttRMi3Yp9b9fpjmKh7bMgfWKLESiK2YovRd8KGzJsGuamoAXfqDDVhckxuc9nmsJ84skCSTijKeU4pfAcxeJ"
     }
   ],
-  "@context": [
-    "https://www.w3.org/ns/did/v1",
-    "https://w3id.org/security/suites/bls12381-2020/v1"
-  ],
   "authentication": [
-    "did:web:trustvc.github.io:did:1#keys-1"
+    "did:web:praduman2714.github.io:did:1#keys-1"
   ],
   "assertionMethod": [
-    "did:web:trustvc.github.io:did:1#keys-1"
+    "did:web:praduman2714.github.io:did:1#keys-1"
   ],
   "capabilityInvocation": [
-    "did:web:trustvc.github.io:did:1#keys-1"
+    "did:web:praduman2714.github.io:did:1#keys-1"
   ],
   "capabilityDelegation": [
-    "did:web:trustvc.github.io:did:1#keys-1"
+    "did:web:praduman2714.github.io:did:1#keys-1"
   ]
 }
