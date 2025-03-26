@@ -1,8 +1,0 @@
-{
-  "id": "did:web:did.trustvc.io#keys-1",
-  "type": "Bls12381G2Key2020",
-  "controller": "did:web:did.trustvc.io",
-  "seedBase58": "GWP69tmSWJjqC1RoJ27FehcVqkVyeYAz6h5ABwoNSNdS",
-  "privateKeyBase58": "4LDU56PUhA9ZEutnR1qCWQnUhtLtpLu2EHSq4h1o7vtF",
-  "publicKeyBase58": "oRfEeWFresvhRtXCkihZbxyoi2JER7gHTJ5psXhHsdCoU1MttRMi3Yp9b9fpjmKh7bMgfWKLESiK2YovRd8KGzJsGuamoAXfqDDVhckxuc9nmsJ84skCSTijKeU4pfAcxeJ"
-}
