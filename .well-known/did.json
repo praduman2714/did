@@ -1,0 +1,19 @@
+{
+  "@context": [
+    "https://www.w3.org/ns/did/v1",
+    "https://w3id.org/security/suites/bls12381-2020/v1"
+  ],
+  "id": "did:web:praduman2714.github.io:did",
+  "verificationMethod": [
+    {
+      "id": "did:web:praduman2714.github.io:did#keys-1",
+      "type": "Bls12381G2Key2020",
+      "controller": "did:web:praduman2714.github.io:did",
+      "publicKeyBase58": "oRfEeWFresvhRtXCkihZbxyoi2JER7gHTJ5psXhHsdCoU1MttRMi3Yp9b9fpjmKh7bMgfWKLESiK2YovRd8KGzJsGuamoAXfqDDVhckxuc9nmsJ84skCSTijKeU4pfAcxeJ"
+    }
+  ],
+  "authentication": ["did:web:praduman2714.github.io:did#keys-1"],
+  "assertionMethod": ["did:web:praduman2714.github.io:did#keys-1"],
+  "capabilityInvocation": ["did:web:praduman2714.github.io:did#keys-1"],
+  "capabilityDelegation": ["did:web:praduman2714.github.io:did#keys-1"]
+}
