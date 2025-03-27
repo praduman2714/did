@@ -5,7 +5,7 @@
       "id": "did:web:praduman2714.github.io:did:1#keys-1",
       "type": "Bls12381G2Key2020",
       "controller": "did:web:praduman2714.github.io:did:1",
-      "publicKeyBase58": "77T4CngAf4QWBFJTFFHtadrovf96QTX7chSEhVz8eX865m1jEXsoD1rRs5QgniABNL6dDTnmnVMo1KTCtB5rZWvBGXWvzuzakcwkNYFnVPYUThUu9xbCkcZH1MuK8EqKJQr8"
+      "publicKeyBase58": "2m7jZugaJkHXgWtgDzwqvx7gmqGf"
     }
   ],
   "authentication": [
